@@ -104,11 +104,7 @@ Swagger UI provides a user-friendly way to visualize and test the API endpoints.
 
 You can access the A-Mazing Journey game through the provided URL. You can interact with the maze, navigate through it using keyboard inputs, and observe your chosen path alongside the optimal path. The game offers a visual representation of the maze-solving process, providing an engaging and educational experience.
 
-## Authors
 
-- [Tsebulia Denys](https://github.com/d3nnyyy): Backend developer.
-- [Horak Maksym](https://github.com/hurrr1cane): Backend developer.
-- [Soloviy Nazariy](https://github.com/N1tingale): Frontend developer.
 
 ## Contributing
 
